@@ -4,6 +4,7 @@ ___________________________
 
 
 ####Platforms and sources:
+- cinder: [gregkepler/The-Nature-of-Code-Examples](https://github.com/gregkepler/The-Nature-of-Code-Examples)
 - openFrameworks: [firmread/NatureOfCode](https://github.com/firmread/NatureOfCode)
 - openFrameworks-2: [emmanuelgeoffray/The-Nature-of-Code](https://github.com/emmanuelgeoffray/The-Nature-of-Code)
 - Processing:  [shiffman/The-Nature-of-Code-Examples](https://github.com/shiffman/The-Nature-of-Code-Examples)
