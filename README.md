@@ -5,6 +5,7 @@ ___________________________
 
 ####Platforms and sources:
 - openFrameworks: [firmread/NatureOfCode](https://github.com/firmread/NatureOfCode)
+- openFrameworks-2: [emmanuelgeoffray/The-Nature-of-Code](https://github.com/emmanuelgeoffray/The-Nature-of-Code)
 - Processing:  [shiffman/The-Nature-of-Code-Examples](https://github.com/shiffman/The-Nature-of-Code-Examples)
 - Python:  [shiffman/The-Nature-of-Code-Examples-Python](https://github.com/shiffman/The-Nature-of-Code-Examples-Python)
 - Javascript:  [shiffman/The-Nature-of-Code-Examples-p5](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
